@@ -80,9 +80,9 @@ body {
       margin-left: 20px;
       cursor: pointer;
       font-size: 15px;
-      transition: .5s;
-      &:hover{
-        transform:perspective(800px) rotateY(180deg);
+      transition: 0.5s;
+      &:hover {
+        transform: perspective(800px) rotateY(180deg);
       }
     }
   }
@@ -611,8 +611,8 @@ body {
         color: white;
         background-color: rgb(2, 58, 50);
         transition: 0.5s;
-        &:hover{
-          transform:perspective(800px) rotateY(180deg);
+        &:hover {
+          transform: perspective(800px) rotateY(180deg);
         }
       }
     }
