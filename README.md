@@ -1,7 +1,7 @@
 ﻿# project-aesthetic
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://imgurl.ir/uploads/q38531_Screenshot_760.png)
+![viewfinal](https://imgurl.ir/uploads/v095246_Screenshot_81.png)
 
 - [Demo Project](https://mohammadjodaki.github.io/project-aesthetic/)
 
