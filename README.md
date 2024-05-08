@@ -1,7 +1,7 @@
 ﻿# project-aesthetic
 You can see information about my project
 
-![viewfinal](https://imgurl.ir/uploads/n908359_Screenshot_82.png)
+![viewfinal](https://imgurl.ir/uploads/z3926_Screenshot_81.png)
 
 - [Demo Project](https://mohammadjodaki.github.io/project-aesthetic/)
 
